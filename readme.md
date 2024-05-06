@@ -3,11 +3,11 @@ A terraform porject that show how to deploy a complet azure container app infras
 
 ## deployment Workflow :
 
-1- Clone the git repo and get in the folder deployment
+1- Clone the git repo 
 
 2- initialization
 
-$ terraform init
+$ cd deployment && terraform init
 
 3- Validation
 
